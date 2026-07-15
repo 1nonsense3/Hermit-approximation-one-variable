@@ -33,25 +33,6 @@
 * `5` — (f(x) = e^x);
 * `6` — (f(x) = \frac{1}{25x^2 + 1}).
 
-## Требования
-
-Для компиляции и запуска необходимы:
-
-* компилятор с поддержкой C++;
-* Gnuplot для отображения графиков.
-
-Установка Gnuplot в Ubuntu или Debian:
-
-```bash
-sudo apt install gnuplot
-```
-
-Установка Gnuplot в macOS через Homebrew:
-
-```bash
-brew install gnuplot
-```
-
 ## Компиляция
 
 С помощью `g++`:
